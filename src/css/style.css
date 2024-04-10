@@ -2,23 +2,67 @@ h1 {
 	color: blue;
 }
 
-section {
-	width: 100%;
-	padding: 0;
-	margin: 0;
-	max-width: none;
-	background-image: url(src/images/mastermind.svg);
-	height: 100vh;
+
+.typegrid {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-template-rows: repeat(2, 384px);
 }
 
-div.quiz0 {
-	background-image: url(src/images/Group.svg);
+.image {
+	position: relative;
 }
 
-/* This uses the same value as --size-xs. */
-@media screen and (width >=320px) {
-	.content-container {
-		margin: 0 auto;
-		max-width: 768px;
-	}
+.size {
+	position: absolute;
+	width: 200px;
+	height: 260px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.text {
+	display: block;
+	position: absolute;
+	top: 70%;
+	left: 10%;
+
+}
+
+
+
+
+
+
+.image1 {
+	background-color: #F8FFA8;
+}
+
+.image2 {
+	background-color: #FFE3A5;
+}
+
+.image3 {
+	background-color: #FFFCC4;
+}
+
+.image4 {
+	background-color: #FFDFD0;
+}
+
+.image5 {
+	background-color: #FFB8CC;
+}
+
+.image6 {
+	background-color: #C3C7FF;
+}
+
+.image7 {
+	background-color: #FFDEFD;
+}
+
+.image8 {
+	background-color: #D6F3FF;
 }
