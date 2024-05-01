@@ -26,7 +26,7 @@ a {
 	text-decoration: none;
 	color: #0F0F0F;
 	max-width: 100%;
-	padding: 0px;
+	padding: 0;
 	text-align: center;
 
 	&:hover,
@@ -42,8 +42,8 @@ a {
 h1 {
 	color: #0f0f0f;
 	text-align: center;
-	margin: 0px;
-	padding: 0px;
+	margin: 0;
+	padding: 0;
 }
 
 main {
@@ -56,11 +56,10 @@ main {
 	position: absolute;
 	top: 360px;
 	background-color: #FDFDFD;
-	width: 100%;
 	z-index: 2;
 	width: 100%;
 	margin: 0;
-	padding: 0px;
+	padding: 0;
 	height: 64px;
 
 	@media screen and (width <=608px) {
@@ -97,7 +96,7 @@ main {
 	flex-direction: row;
 	justify-content: center;
 	align-items: flex-end;
-	padding: 0px;
+	padding: 0;
 	gap: 10px;
 
 }
@@ -106,7 +105,7 @@ main {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	padding: 0px;
+	padding: 0;
 	gap: 10px;
 }
 
@@ -171,8 +170,8 @@ main {
 	color: black;
 	font-size: 36px;
 	text-decoration: none;
-	margin: 0px;
-	padding: 16px 0px 16px 0px;
+	margin: 0;
+	padding: 16px 0;
 	text-align: center;
 
 	@media screen and (width <=834px) {
@@ -186,7 +185,7 @@ main {
 
 .homeh3 {
 	font-size: 20px;
-	margin: 0px;
+	margin: 0;
 }
 
 .image1 {
@@ -231,7 +230,7 @@ body {
 .home-container {
 	width: 100%;
 	margin: 0;
-	padding: 0px;
+	padding: 0;
 }
 
 .content-container {
@@ -268,14 +267,13 @@ p {
 	color: #0F0F0F;
 	border-top-left-radius: 20px;
 	border-top-right-radius: 20px;
-	font-family: "Raleway";
+	font-family: Raleway;
 	font-size: 20px;
 }
 
 .answer-options {
 	display: flex;
-	flex-direction: column;
-	flex-wrap: wrap;
+	flex-flow: column wrap;
 	justify-content: space-between;
 	margin-bottom: 500px;
 	background-color: #FDFDFD;
@@ -301,17 +299,14 @@ p {
 h3 {
 	margin: 0;
 	padding: 16px;
-	font-family: "Raleway";
+	font-family: Raleway;
 	font-weight: 300;
 	font-size: 20px;
 }
 
 .typeh2 {
-	padding-top: 80px;
-	padding-bottom: 0px;
-	padding-left: 0px;
-	padding-right: 0px;
-	margin: 0px;
+	padding: 80px 0 0;
+	margin: 0;
 	font-size: 24px;
 	font-family: Raleway;
 	text-align: right;
@@ -324,29 +319,23 @@ h3 {
 
 .typeh1 {
 	font-size: 56px;
-	padding-top: 32px;
-	padding-bottom: 20px;
-	margin: 0px;
-	padding-left: 0px;
-	padding-right: 0px;
+	padding: 32px 0 20px;
+	margin: 0;
 	font-family: Petrona;
 
 	@media screen and (width <=608px) {
 		position: fixed;
 		top: 64px;
 		background-color: #FDFDFD;
-		padding: 16px 0px 16px 16px;
+		padding: 16px 0 16px 16px;
 		font-size: 36px
 	}
 }
 
 .subhead {
 	width: 80%;
-	padding-left: 0px;
-	padding-right: 0px;
-	padding-top: 0px;
-	padding-bottom: 120px;
-	margin: 0px;
+	padding: 0 0 120px;
+	margin: 0;
 	font-size: 20px;
 	text-align: right;
 	font-family: Raleway;
@@ -359,11 +348,8 @@ h3 {
 
 .typeh22 {
 	font-size: 20px;
-	padding-top: 80px;
-	padding-left: 0px;
-	padding-right: 0px;
-	padding-bottom: 20px;
-	margin: 0px;
+	padding: 80px 0 20px;
+	margin: 0;
 	font-family: Raleway;
 
 	@media screen and (width <=608px) {
@@ -373,11 +359,8 @@ h3 {
 
 .typeh33 {
 	font-size: 20px;
-	padding-top: 42px;
-	padding-bottom: 20px;
-	padding-left: 0px;
-	padding-right: 0px;
-	margin: 0px;
+	padding: 42px 0 20px;
+	margin: 0;
 	font-family: Raleway;
 
 	@media screen and (width <=608px) {
@@ -387,11 +370,8 @@ h3 {
 
 .p1 {
 	font-size: 20px;
-	padding-bottom: 20px;
-	padding-top: 0px;
-	padding-left: 0px;
-	padding-right: 0px;
-	margin: 0px;
+	padding: 0 0 20px;
+	margin: 0;
 	font-family: Raleway;
 
 	@media screen and (width <=608px) {
@@ -402,8 +382,8 @@ h3 {
 
 .p2 {
 	font-size: 18px;
-	padding: 0px;
-	margin: 0px;
+	padding: 0;
+	margin: 0;
 	font-family: Raleway;
 	font-weight: 200;
 
@@ -417,7 +397,7 @@ h3 {
 	flex-direction: column;
 	align-items: flex-start;
 	width: 75%;
-	margin-left: 0px;
+	margin-left: 0;
 	padding: 16px;
 
 	&::before {
@@ -440,7 +420,7 @@ h3 {
 	flex-direction: column;
 	align-items: flex-start;
 	width: 75%;
-	margin-left: 0px;
+	margin-left: 0;
 	padding: 16px;
 
 
@@ -464,7 +444,7 @@ h3 {
 	flex-direction: column;
 	align-items: flex-start;
 	width: 75%;
-	margin-left: 0px;
+	margin-left: 0;
 	padding: 16px;
 
 
@@ -488,7 +468,7 @@ h3 {
 	flex-direction: column;
 	align-items: flex-start;
 	width: 75%;
-	margin-left: 0px;
+	margin-left: 0;
 	padding: 16px;
 
 
@@ -512,7 +492,7 @@ h3 {
 	flex-direction: column;
 	align-items: flex-start;
 	width: 75%;
-	margin-left: 0px;
+	margin-left: 0;
 	padding: 16px;
 
 
@@ -536,7 +516,7 @@ h3 {
 	flex-direction: column;
 	align-items: flex-start;
 	width: 75%;
-	margin-left: 0px;
+	margin-left: 0;
 	padding: 16px;
 
 
@@ -560,7 +540,7 @@ h3 {
 	flex-direction: column;
 	align-items: flex-start;
 	width: 75%;
-	margin-left: 0px;
+	margin-left: 0;
 	padding: 16px;
 
 
@@ -584,7 +564,7 @@ h3 {
 	flex-direction: column;
 	align-items: flex-start;
 	width: 75%;
-	margin-left: 0px;
+	margin-left: 0;
 	padding: 16px;
 
 
@@ -608,12 +588,12 @@ h3 {
 	flex-direction: column;
 	align-items: flex-start;
 	width: 75%;
-	margin-left: 0px;
+	margin-left: 0;
 	padding: 16px;
 
 
 }
 
 .background {
-	background-image: url(../images/squiggles.svg);
+	background-image: url("../images/squiggles.svg");
 }
