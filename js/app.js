@@ -33,7 +33,7 @@ const questions = [
 	},
 	{
 		id: 2,
-		text: "Flashback to middle school: capture the flag.",
+		text: "Middle school: capture the flag",
 		answers: [
 			{
 				text: "I’ll be going for the flag.",
@@ -82,7 +82,7 @@ const questions = [
 	},
 	{
 		id: 6,
-		text: "Someone here needs to make a sacrifice",
+		text: "Someone needs to make a sacrifice",
 		answers: [
 			{
 				text: "It’s not gonna be me.",
@@ -94,7 +94,7 @@ const questions = [
 	},
 	{
 		id: 7,
-		text: "First time playing a game, what turn are you taking?",
+		text: "New game, what turn are you taking?",
 		answers: [
 			{
 				text: "I’d prefer to go last",
@@ -238,151 +238,151 @@ const answers = [
 	{
 		//left off here
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To win.", "Let’s be for real, I’m taking the guaranteed champ.", "I’m always down for a lil detour.", "It could very well be me.", "I’d prefer to go last", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To win.", "Let’s be for real, I’m taking the guaranteed champ.", "I’m always down for a lil detour.", "It could very well be me.", "I’ve got first", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To win.", "Let’s be for real, I’m taking the guaranteed champ.", "I’m always down for a lil detour.", "It could very well be me.", "I’ve got first", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "The underdog. Always the underdog.", "Rather not, I have somewhere to be.", "It’s not gonna be me.", "I’d prefer to go last", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "The underdog. Always the underdog.", "Rather not, I have somewhere to be.", "It’s not gonna be me.", "I’d prefer to go last", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "The underdog. Always the underdog.", "Rather not, I have somewhere to be.", "It’s not gonna be me.", "I’ve got first", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "The underdog. Always the underdog.", "Rather not, I have somewhere to be.", "It’s not gonna be me.", "I’ve got first", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "The underdog. Always the underdog.", "Rather not, I have somewhere to be.", "It could very well be me.", "I’d prefer to go last", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "The underdog. Always the underdog.", "Rather not, I have somewhere to be.", "It could very well be me.", "I’d prefer to go last", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "The underdog. Always the underdog.", "Rather not, I have somewhere to be.", "It could very well be me.", "I’ve got first", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "The underdog. Always the underdog.", "Rather not, I have somewhere to be.", "It could very well be me.", "I’ve got first", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "The underdog. Always the underdog.", "I’m always down for a lil detour.", "It’s not gonna be me.", "I’d prefer to go last", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "The underdog. Always the underdog.", "I’m always down for a lil detour.", "It’s not gonna be me.", "I’d prefer to go last", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "The underdog. Always the underdog.", "I’m always down for a lil detour.", "It’s not gonna be me.", "I’ve got first", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "The underdog. Always the underdog.", "I’m always down for a lil detour.", "It’s not gonna be me.", "I’ve got first", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "The underdog. Always the underdog.", "I’m always down for a lil detour.", "It could very well be me.", "I’d prefer to go last", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "The underdog. Always the underdog.", "I’m always down for a lil detour.", "It could very well be me.", "I’d prefer to go last", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "The underdog. Always the underdog.", "I’m always down for a lil detour.", "It could very well be me.", "I’ve got first", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "The underdog. Always the underdog.", "I’m always down for a lil detour.", "It could very well be me.", "I’ve got first", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "Let’s be for real, I’m taking the guaranteed champ.", "Rather not, I have somewhere to be.", "It’s not gonna be me.", "I’d prefer to go last", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "Let’s be for real, I’m taking the guaranteed champ.", "Rather not, I have somewhere to be.", "It’s not gonna be me.", "I’d prefer to go last", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "Let’s be for real, I’m taking the guaranteed champ.", "Rather not, I have somewhere to be.", "It’s not gonna be me.", "I’ve got first", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "Let’s be for real, I’m taking the guaranteed champ.", "Rather not, I have somewhere to be.", "It’s not gonna be me.", "I’ve got first", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "Let’s be for real, I’m taking the guaranteed champ.", "Rather not, I have somewhere to be.", "It could very well be me.", "I’d prefer to go last", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "Let’s be for real, I’m taking the guaranteed champ.", "Rather not, I have somewhere to be.", "It could very well be me.", "I’d prefer to go last", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "Let’s be for real, I’m taking the guaranteed champ.", "Rather not, I have somewhere to be.", "It could very well be me.", "I’ve got first", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "Let’s be for real, I’m taking the guaranteed champ.", "Rather not, I have somewhere to be.", "It could very well be me.", "I’ve got first", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "Let’s be for real, I’m taking the guaranteed champ.", "I’m always down for a lil detour.", "It’s not gonna be me.", "I’d prefer to go last", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "Let’s be for real, I’m taking the guaranteed champ.", "I’m always down for a lil detour.", "It’s not gonna be me.", "I’d prefer to go last", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "Let’s be for real, I’m taking the guaranteed champ.", "I’m always down for a lil detour.", "It’s not gonna be me.", "I’ve got first", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "Let’s be for real, I’m taking the guaranteed champ.", "I’m always down for a lil detour.", "It’s not gonna be me.", "I’ve got first", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "Let’s be for real, I’m taking the guaranteed champ.", "I’m always down for a lil detour.", "It could very well be me.", "I’d prefer to go last", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "Let’s be for real, I’m taking the guaranteed champ.", "I’m always down for a lil detour.", "It could very well be me.", "I’d prefer to go last", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "Let’s be for real, I’m taking the guaranteed champ.", "I’m always down for a lil detour.", "It could very well be me.", "I’ve got first", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ll be going for the flag.", "To see if I can get away with it.", "Let’s be for real, I’m taking the guaranteed champ.", "I’m always down for a lil detour.", "It could very well be me.", "I’ve got first", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ve got defense.", "To win.", "The underdog. Always the underdog.", "Rather not, I have somewhere to be.", "It’s not gonna be me.", "I’d prefer to go last", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Mastermind",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ve got defense.", "To win.", "The underdog. Always the underdog.", "Rather not, I have somewhere to be.", "It’s not gonna be me.", "I’d prefer to go last", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Tactican",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ve got defense.", "To win.", "The underdog. Always the underdog.", "Rather not, I have somewhere to be.", "It’s not gonna be me.", "I’ve got first", "I’m telling others what to do"],
@@ -394,15 +394,15 @@ const answers = [
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ve got defense.", "To win.", "The underdog. Always the underdog.", "Rather not, I have somewhere to be.", "It could very well be me.", "I’d prefer to go last", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Mastermind",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ve got defense.", "To win.", "The underdog. Always the underdog.", "Rather not, I have somewhere to be.", "It could very well be me.", "I’d prefer to go last", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Mastermind",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ve got defense.", "To win.", "The underdog. Always the underdog.", "Rather not, I have somewhere to be.", "It could very well be me.", "I’ve got first", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Sparkplug",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ve got defense.", "To win.", "The underdog. Always the underdog.", "Rather not, I have somewhere to be.", "It could very well be me.", "I’ve got first", "I’m asking others what they want to do"],
@@ -410,40 +410,41 @@ const answers = [
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ve got defense.", "To win.", "The underdog. Always the underdog.", "I’m always down for a lil detour.", "It’s not gonna be me.", "I’d prefer to go last", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Strategist",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ve got defense.", "To win.", "The underdog. Always the underdog.", "I’m always down for a lil detour.", "It’s not gonna be me.", "I’d prefer to go last", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Synergist",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ve got defense.", "To win.", "The underdog. Always the underdog.", "I’m always down for a lil detour.", "It’s not gonna be me.", "I’ve got first", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Daredevil",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ve got defense.", "To win.", "The underdog. Always the underdog.", "I’m always down for a lil detour.", "It’s not gonna be me.", "I’ve got first", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ve got defense.", "To win.", "The underdog. Always the underdog.", "I’m always down for a lil detour.", "It could very well be me.", "I’d prefer to go last", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Synergist",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ve got defense.", "To win.", "The underdog. Always the underdog.", "I’m always down for a lil detour.", "It could very well be me.", "I’d prefer to go last", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Synergist",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ve got defense.", "To win.", "The underdog. Always the underdog.", "I’m always down for a lil detour.", "It could very well be me.", "I’ve got first", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ve got defense.", "To win.", "The underdog. Always the underdog.", "I’m always down for a lil detour.", "It could very well be me.", "I’ve got first", "I’m asking others what they want to do"],
-		text: "Sparkplug",
+		text: "Catalyst",
 	},
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ve got defense.", "To win.", "Let’s be for real, I’m taking the guaranteed champ.", "Rather not, I have somewhere to be.", "It’s not gonna be me.", "I’d prefer to go last", "I’m telling others what to do"],
-		text: "Maverick",
+		text: "Mastermind",
 	},
+	//here
 	{
 		combination: ["High risk, high reward", "With the friend.", "I’ve got defense.", "To win.", "Let’s be for real, I’m taking the guaranteed champ.", "Rather not, I have somewhere to be.", "It’s not gonna be me.", "I’d prefer to go last", "I’m asking others what they want to do"],
 		text: "Sparkplug",
@@ -2246,16 +2247,28 @@ const showAnswer = () => {
 	let pageToOpen = "";
 	switch (result.text) {
 		case "Maverick":
-			pageToOpen = "maverick.html";
+			pageToOpen = "maverickR.html";
 			break;
 		case "Sparkplug":
-			pageToOpen = "sparkplug.html";
+			pageToOpen = "sparkplugR.html";
 			break;
 		case "Catalyst":
-			pageToOpen = "catalyst.html";
+			pageToOpen = "catalystR.html";
 			break;
-		case "Halloumi":
-			pageToOpen = "halloumi.html";
+		case "Mastermind":
+			pageToOpen = "mastermindR.html";
+			break;
+		case "Daredevil":
+			pageToOpen = "daredevilR.html";
+			break;
+		case "Strategist":
+			pageToOpen = "strategistR.html";
+			break;
+		case "Synergist":
+			pageToOpen = "synergistR.html";
+			break;
+		case "Tactician":
+			pageToOpen = "tacticianR.html";
 			break;
 		default:
 			pageToOpen = "default.html";
